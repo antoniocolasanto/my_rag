@@ -1,0 +1,15 @@
+# Ambienti virtuali
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database e segreti
+*.sqlite3
+.env
+
+# Dati personali (opzionale, se non vuoi caricare i tuoi appunti)
+*.txt
+*.pdf
